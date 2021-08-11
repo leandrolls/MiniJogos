@@ -1,0 +1,3 @@
+from Funcoes import*
+
+menuInicial()
