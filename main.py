@@ -1,3 +1,3 @@
-from Funcoes import*
+from functions import*
 
 menuInicial()
